@@ -1,0 +1,35 @@
+[
+    {   "id":1,
+        "title":"eductation",
+        "courses":[
+            {
+                
+                "date":"2017-2022",                
+                "Faculty":"Bachelor In Computer Engineering",
+                "instution":"Khwopa Engineering College",
+                "description":"Bachelor degree Completed at 2022",
+                "Locations":"Libali,Bhaktapur"
+
+            },
+            {
+                
+                "date":"2015-2017",
+                "description":"+2,Science ",
+                "instution":"paragon Academy Secondary Boarding School",
+                "Locations":"Kamalbiniyak,Bhaktapur"
+
+            },
+            {
+                "date":"2014",
+                "description":"SLC passout ",
+                "instution":"paragon Academy Secondary Boarding School",
+                "Locations":"Kamalbiniyak,Bhaktapur"
+            }
+        
+
+        ]
+
+
+    }
+
+]

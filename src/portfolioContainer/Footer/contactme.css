@@ -1,0 +1,110 @@
+.contactme-container {
+    background-color: rgb(209, 221, 233);
+    /* background-image: url("../../assets/Home/mailz.jpeg"); */
+    height: 48rem;
+    width: 100%;
+
+
+}
+
+.contactme-parent {
+    background-color: #1b1e3e;
+    height: 30rem;
+    width: 70%;
+    margin: auto;
+    position: relative;
+    /* top: 35px; */
+    /* margin-top: 10rem; */
+    border-radius: 25px;
+    display: flex;
+    flex: column;
+}
+
+.contactme-title {
+    /* font-size: 1.5rem; */
+    /* font-weight: bold; */
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: var(--dark-orange);
+
+}
+
+.contactme-title-paragraph {
+    color: chocolate;
+}
+
+.contactme-left-flex {
+    /* background-color: red; */
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    height: 100%;
+    width: 50%;
+}
+
+.contactme-right-flex {
+    background-color: #1b1e3e;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    height: 100%;
+    width: 50%;
+
+}
+
+.contactme-getintouch {
+    margin: 30px;
+    color: white;
+    font-family: Georgia, serif;
+}
+
+.footer-colz .footer-colz-icon i {
+    color: wheat;
+    padding: 8px;
+    padding-left: 0px;
+    position: relative;
+    left: 85px;
+}
+
+.footer-colz .footer-colz-icon i:hover {
+    transform: scale(1.5);
+
+}
+
+
+.contactme-getintouch-image {
+    /* background-image: url("../../assets/Home/mailz.jpeg"); */
+    height: 5rem;
+    width: 100%;
+    color: white;
+    opacity: .5;
+    font-size: 1.5rem;
+
+}
+
+.contactme-getintouch-image p {
+    margin-left: 15px;
+    font-family: cursive;
+}
+
+.contactme-getintouch-image img {
+
+    height: 13rem;
+    margin-top: -15px;
+    width: 90%;
+    margin-left: 25px;
+
+    /* align-items: center;
+    text-align: center;
+    justify-content: center; */
+    /* opacity: 0.5; */
+
+}
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+    /* margin-top: 55px; */
+    position: relative;
+    top: 5rem;
+    right: 5px
+}

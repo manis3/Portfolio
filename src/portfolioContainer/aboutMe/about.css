@@ -1,0 +1,142 @@
+.about-container {
+    /* background: cover; */
+    height: 60rem;
+    width: 100%;
+    background-color: #1b1e3e;
+    /* border-bottom: 2px groove rgb(248, 238, 238); */
+
+    /* display: flex; */
+
+    /* background-: rgb(133, 191, 243); */
+}
+
+
+
+.about-me-title {
+    text-align: center;
+
+    /* align-items: center; */
+    /* display: flex; */
+    /* flex-direction: row; */
+    justify-content: center;
+    width: 100%;
+    margin: 0 0 2% 0;
+    /* margin-left: 50%; */
+    position: relative;
+    top: 45px;
+
+    /* border-length: 5cm; */
+}
+
+/* .about-me-title:before {
+    content: "";
+    position: absolute;
+    left: 362px;
+    bottom: 0;
+    padding-top: 50px;
+    /* height: 1000000px; */
+/* width: 50%;
+
+border-bottom: 2px solid #000;
+} */
+
+.about-me-p {
+    color: chocolate;
+}
+
+.title {
+    position: relative;
+    /* background: rgb(133, 191, 243); */
+    /* padding-top: 50px; */
+    color: var(--dark-orange);
+    /* text-style: bold; */
+    /* text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: rgba(232, 54, 0, 1);
+    text-decoration-thickness: 1px; */
+}
+
+.about-container-child {
+    display: flex;
+    flex-direction: column;
+    height: 72%;
+    width: 70%;
+    margin: 0 0 0 15%;
+    margin-bottom: 50px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 65px;
+    background-color: rgb(226, 238, 248);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.about-parent {
+    display: flex;
+    align-items: center;
+    color: rgb(39, 111, 174);
+}
+
+.about-parent-child {
+    display: flex;
+
+}
+
+
+
+
+.about-image {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 1px 0px 0px var(rgb(26, 60, 91));
+    height: 400px;
+    width: 450px;
+    margin: 0 0px 0 100px;
+    margin-left: 100px;
+    object-fit: cover
+}
+
+.about-image-background {
+    height: 92%;
+    width: 92%;
+    background-image: url('../../assets/Home/Aboutme.jpg');
+    background-size: cover;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.about-me-content {
+    /* width: 1000px; */
+    /* display: flex; */
+    align-items: left;
+    justify-content: left;
+    /* text-align: center; */
+    margin: 100px 100px 0 0 !important;
+}
+
+.about-me-content {
+    width: 50%;
+    text-align: left;
+
+
+}
+
+
+.highlighted-text {
+    color: var(--dark-orange);
+}
+
+.text {
+    color: var(--dark-blue);
+}
+
+.highlighted-btn:hover {
+    margin: 0 0 0 28px;
+    background-color: cornsilk;
+    color: #111;
+}
