@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3f6b997c.css",
+    "main.js": "/Portfolio/static/js/main.0c3fd83c.js",
+    "static/js/787.fed5dbeb.chunk.js": "/Portfolio/static/js/787.fed5dbeb.chunk.js",
+    "static/media/bg.jpg": "/Portfolio/static/media/bg.74b9db733735005d474a.jpg",
+    "static/media/Poppins-Thin.ttf": "/Portfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/Portfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/Portfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/Portfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Portfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/Portfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Portfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/manish.jpg": "/Portfolio/static/media/manish.c4580183d085f04ec696.jpg",
+    "static/media/mailz.jpeg": "/Portfolio/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/frontend.jpg": "/Portfolio/static/media/frontend.00aeeab3cd2ef8d4d557.jpg",
+    "static/media/fullstack.jpg": "/Portfolio/static/media/fullstack.2d7c01e16c050ef5ffee.jpg",
+    "static/media/ui.jpg": "/Portfolio/static/media/ui.6835f018ffb0b7d3e0cc.jpg",
+    "static/media/Aboutme.jpg": "/Portfolio/static/media/Aboutme.5d37064defdb42aaf855.jpg",
+    "static/media/logodesign.jpg": "/Portfolio/static/media/logodesign.a93a9b8f9ba506f74eef.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.3f6b997c.css.map": "/Portfolio/static/css/main.3f6b997c.css.map",
+    "main.0c3fd83c.js.map": "/Portfolio/static/js/main.0c3fd83c.js.map",
+    "787.fed5dbeb.chunk.js.map": "/Portfolio/static/js/787.fed5dbeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f6b997c.css",
+    "static/js/main.0c3fd83c.js"
+  ]
+}
